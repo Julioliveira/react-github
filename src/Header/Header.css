@@ -1,0 +1,12 @@
+.Header {
+    background-color: #7433f1;
+    text-align: center;
+    height: 100px;
+}
+
+.Header > .title {
+    color: white;
+    font-size: 2rem;
+    top: 25%;
+    position: relative;
+}

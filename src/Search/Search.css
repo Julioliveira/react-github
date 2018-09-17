@@ -1,0 +1,68 @@
+.Search{
+
+}
+
+/* .Search > button {
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+    background-color: #7433f1;
+    color: white;
+    cursor: pointer;
+}
+
+.Search > button :focus {
+    outline:0;
+}
+
+.Search > button:active {
+    outline: none;
+    border: none;
+} */
+
+button {
+    background-color: #7433f1;
+    border-radius: 3px;
+    height: 40px;
+    width: 100px;
+    padding: 5px 15px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+    
+button:hover {
+    cursor: pointer;
+    background-color: #8656df;
+}
+    
+button:active {
+    outline: none;
+    border: none;
+}
+    
+button:focus {outline:0;}
+
+input {
+    /* background-color: #7433f1; */
+    border: 1px solid darkgray;
+    border-radius: 3px;
+    height: 25px;
+    padding: 5px 15px;
+    width: 65%;
+    font-size: 16px;
+    font-weight: 300;
+    margin: 35px 10px 35px 0px;
+}
+
+input:active {
+    outline: none;
+    border: none;
+}
+        
+input:focus {outline:0;}
+
+
+/* 641d5a3cdcb59720f8c4c88c227f69acf2873366 */
