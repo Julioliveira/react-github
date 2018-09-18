@@ -1,0 +1,7 @@
+.Listing{}
+
+.Listing  .link {
+    color: #7433f1;
+    text-decoration: underline;
+    cursor: pointer;
+}
